@@ -1,4 +1,3 @@
-
 def main():
     color1 = "blue"
     color2 = "pink"
